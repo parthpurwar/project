@@ -2,9 +2,9 @@
 
 # soution code
 
-##project 1
+## project 1 
 
-'''javascript
+```js
 
 console.log("parth{})
 const buttons =document.querySelectorAll('.button');
@@ -31,4 +31,5 @@ button.addEventListener('click', function(e){
     
 })
 });
-'''
+```
+
